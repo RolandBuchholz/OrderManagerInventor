@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 25.0-->
+  <ClassId>{17A8FC6C-A98C-4FE0-85C9-4E3B19AF6642}</ClassId>
+  <ClientId>{17A8FC6C-A98C-4FE0-85C9-4E3B19AF6642}</ClientId>
+  <DisplayName>OrderManagerInventor</DisplayName>
+  <Description>Addin description</Description>
+  <Assembly>OrderManagerInventor.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>15..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

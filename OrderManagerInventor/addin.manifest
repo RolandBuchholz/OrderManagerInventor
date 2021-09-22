@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="ordermanagerinventor" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{17A8FC6C-A98C-4FE0-85C9-4E3B19AF6642}"
+			progid="OrderInvAddin.StandardAddInServer"
+			threadingModel="Both"
+			name="OrderInvAddin.StandardAddInServer"
+			runtimeVersion=""></clrClass>
+
+  <file name="OrderManagerInventor.dll" hashalg="SHA1"></file>
+
+</assembly>
